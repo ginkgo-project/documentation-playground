@@ -9,8 +9,12 @@ on:
       - develop
     types: [closed, synchronize, opened]
   push:
+    branches:
+      - 'main'
     tags:
        - v*
+  workflow_dispatch:
+
 
 jobs:
   build:
