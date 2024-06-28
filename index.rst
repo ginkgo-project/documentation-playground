@@ -43,6 +43,7 @@ reading order:
    :hidden:
    :caption: User Guide:
 
+   user-guide/faq
    user-guide/getting-started
    user-guide/build-install
    user-guide/executors
