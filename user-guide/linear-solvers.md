@@ -15,4 +15,5 @@
 
 :::{toctree}
 linear-solvers/stopping-criteria
+linear-solvers/factorizations
 :::

@@ -47,7 +47,6 @@ reading order:
    user-guide/matrices
    user-guide/linear-operators
    user-guide/linear-solvers
-   user-guide/factorizations
    user-guide/distributed
    user-guide/object-configuration
    user-guide/logging
