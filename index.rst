@@ -6,6 +6,9 @@
 Welcome to Ginkgo's documentation!
 ==================================
 
+This documentation is written with sphinx and markdown.
+To use markdown files in sphinx we use the `myst parser <https://myst-parser.readthedocs.io/en/latest/>`_.
+
 .. attention::
 
    what wording to use?
